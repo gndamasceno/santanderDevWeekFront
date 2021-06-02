@@ -10,7 +10,7 @@
 <p> Acesse o projeto: https://gndamasceno.github.io/santanderDevWeekFront/
 </p>
 
-# Material de Apoio - Bootcamp Santander
+## Material de Apoio - Bootcamp Santander
 
 ## Aula 1: Configurando Ambiente - Frontend
 
