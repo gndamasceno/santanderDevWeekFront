@@ -5,6 +5,11 @@
 <p>O evento foi proporcionado pela Santander em parceria com a Digital Innovation One(DIO) e teve como objetivo ensinar como desenvolver uma SPA utilizando as tecnologias Java e Angular, visando a preparação dos participantes para o Bootcamp Santander 2021.
 </p>
 
+# Resultado
+
+<p> Acesse o projeto: https://gndamasceno.github.io/santanderDevWeekFront/
+</p>
+
 # Material de Apoio - Bootcamp Santander
 
 ## Aula 1: Configurando Ambiente - Frontend
